@@ -1,6 +1,6 @@
 # blobexec
 
-`blocexec` allows you to quickly debug shellcode extracted during malware analysis, or during shellcode development. It simply allocates memory and copies the shellcode into the allocated memory waiting for a debugger attach and breakpoint setup before triggering shellcode's execution in a new thread.
+`blobexec` allows you to quickly debug shellcode extracted during malware analysis, or during shellcode development. It simply allocates memory and copies the shellcode into the allocated memory waiting for a debugger attach and breakpoint setup before triggering shellcode's execution in a new thread.
 
 ## Usage
 
